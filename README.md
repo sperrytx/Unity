@@ -1,2 +1,2 @@
 # Unity
- All Unity develpment is in this repository
+ All Unity development is in this repository
